@@ -1,0 +1,3 @@
+# CIT-262-Core
+For BYUI's CIT 262 
+Hello, for this asignment I decided to speak about Dungeons and Dragons. I believe the simplest way to describe what DnD is to describe it as cooperative story telling. Players make decisions while the dungeonmaster (story teller) arbitrates the effects of those actions. DnD is the most popular table top role playing game in the world and it is fairly easy to see why. It is a system that turns one of humanity's oldest past times, story telling, and turns it into a group activty that encourages creativity and adventure. 
