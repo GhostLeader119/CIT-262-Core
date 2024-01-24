@@ -12,9 +12,10 @@
   },
   "keywords": [
     "test",
-    "school"
+    "school",
+    "CIT-262"
   ],
-  "author": "C",
+  "author": "C.C",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GhostLeader119/CIT-262-Core/issues"
