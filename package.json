@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "For CIT 262",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "hello": "node helloworld.js"  
+  "dependencies": {
+    "mocha": "^9.1.4"
   },
+  "scripts": {
+    "test": "mocha"
+  },
+  "type":"module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GhostLeader119/CIT-262-Core.git"
+    
   },
   "keywords": [
     "test",
